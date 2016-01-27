@@ -37,7 +37,8 @@ In this section, please report:
 	$$\int_0^{\infty} e^{-x^3}* 5x^3 dx = 5*\frac{\gamma{\frac{4}{3}}{3}.$$
 
 3. Write down your system of 10 linear equations.
-        \begin{align*}
+        
+	\begin{align*}
 	3 x_0 +x_1 +4 x_2 +5 x_3 +6 x_4 + 2 x_7 &= 9,\\
 	2 x_0 +3 x_2 +2 x_3 +x_4 +x_7 + 2 x_8 &= 8,\\
 	4 x_0 +3 x_1 +5 x_2 +4 x_3 +3 x_4 +x_5 +3 x_8 +x_9 &= 8,\\
